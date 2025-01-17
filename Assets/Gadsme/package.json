@@ -3,7 +3,7 @@
   "displayName": "The One Custom Gadsme",
   "description": "Gadsme Unity plugin",
   "version": "1.11.23",
-  "unity": "6000.0.33",
+  "unity": "6000.0",
   "author": {
     "name": "The One Game Studio",
     "email": "tuha@the1studio.org",
